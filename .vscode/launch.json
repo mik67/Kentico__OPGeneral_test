@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "op-demo-cz",
+            "server": "https://192.168.1.159",
+            "serverInstance": "kentico_navuserpwd",
+            "authentication": "UserPassword",
+            "port": 7149,
+            "schemaUpdateMode": "Synchronize"          
+        }
+    ]
+}

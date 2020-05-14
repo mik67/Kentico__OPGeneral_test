@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="cs-CZ" original="OPGeneral" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1915.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="body" datatype="resx">
+        <trans-unit id="Table 1896974463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Type</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Typ služby</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Service Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3747281322 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActionName</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Service Types - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggest Vendor Payments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Navrhnout platby dodavateli</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Možnosti</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 105024216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Payments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Najít platby</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control Find Payments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 941964432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Payment Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Poslední datum splatnosti</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control LastPaymentDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 941964432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the latest payment date that can appear on the vendor ledger entries to be included in the batch job. Only entries that have a due date or a payment discount date before or on this date will be included. If the payment date is earlier than the system date, a warning will be displayed.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje poslední (nejmladší) datum splatnosti dodavatelských položek, které mají být zahrnuty do této dávkové úlohy. Zahrnuty budou pouze položky s datem splatnosti nebo datem platebního skonta menším nebo shodným s nastaveným datem. Bude zobrazeno upozornění pokud je datum platby dřívější než systémové datum.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control LastPaymentDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 2463028275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Payment Discounts</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyhledat skonto</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control FindPaymentDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 2463028275 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the batch job to include vendor ledger entries for which you can receive a payment discount.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda chcete, aby dávková úloha zahrnula položky dodavatele, pro které můžete obdržet skonto.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control FindPaymentDiscounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 4125201959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Vendor Priority</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Použít prioritu dodavatele</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control UseVendorPriority - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 4125201959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the Priority field on the vendor cards will determine in which order vendor entries are suggested for payment by the batch job. The batch job always prioritizes vendors for payment suggestions if you specify an available amount in the Available Amount (LCY) field.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Definuje zda pole Priorita v kartě dodavatele určuje v jakém pořadí budou položky dodavatele navržené dávkovou úlohou k proplacení. Dávková úloha vždy upřednostňuje dodavatele v návrhu plateb v případě zadání dostupné částky v poli Částka k dispozici (LM).</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control UseVendorPriority - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 270203254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Amount (LCY)</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Částka k dispozici</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control Available Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 270203254 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a maximum amount (in LCY) that is available for payments. The batch job will then create a payment suggestion on the basis of this amount and the Use Vendor Priority check box. It will only include vendor entries that can be paid fully.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje maximální částku (v LM), která je pro platby k dispozici. Dávková úloha potom na základě této částky vytvoří návrh platby a políčko Použít prioritu dodavatele. Bude obsahovat pouze položky dodavatele, které mohou být úplně zaplaceny.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control Available Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 41713295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skip Exported Payments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Přeskočit exportované platby</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control SkipExportedPayments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 41713295 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you do not want the batch job to insert payment journal lines for documents for which payments have already been exported to a bank file.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda nechcete, aby dávková úloha vložila řádky deníku plateb pro doklady, pro které již byly exportovány platby do souboru banky.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control SkipExportedPayments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 446295203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Other Journal Batches</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control CheckOtherJournalBatches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 446295203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to exclude payments that are already included in another journal batch from new suggested payments. This helps avoid duplicate payments.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control CheckOtherJournalBatches - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 970280427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summarize Results</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Shrnutí výsledků</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control Summarize Results - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 4147531868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summarize per Vendor</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Dodavatel na jeden řádek</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control SummarizePerVendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 4147531868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the batch job to make one line per vendor for each currency in which the vendor has ledger entries. If, for example, a vendor uses two currencies, the batch job will create two lines in the payment journal for this vendor. The batch job then uses the Applies-to ID field when the journal lines are posted to apply the lines to vendor ledger entries. If you do not select this check box, then the batch job will make one line per invoice.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda chcete, aby dávková úloha vytvářela jeden řádek za každého dodavatele a každou měnu z položek dodavatele. Například dodavatel používá dvě měny pro fakturaci, tak dávková úloha vytvoří dva řádky v deníku plateb pro tohoto dodavatele. Dávková úloha použije pole Nastavit pole vyrovnání během účtování řádků deníku pro vyrovnání položek dodavatele. Pokud toto políčko není zaškrtnuté, bude dávková úloha vytvářet jeden řádek za každý doklad.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control SummarizePerVendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3061097395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>By Dimension</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Podle dimenzí</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control SummarizePerDimText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3061097395 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimensions that you want the batch job to consider.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje dimenze, které má dávková úloha zvážit.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control SummarizePerDimText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 1565063448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill in Journal Lines</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyplňte řádky deníku</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control Fill in Journal Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Datum zaúčtování</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3037438984 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date for the posting of this batch job. By default, the working date is entered, but you can change it.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje zúčtovací datum pro tuto dávkovou úlohu. Jako výchozí je vloženo pracovní datum, ale můžete jej změnit.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control PostingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 671266407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Posting Date from Applies-to-Doc. Due Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vypočítat zúčtovací datum z datumu splatnosti vyrovnání dokladu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control UseDueDateAsPostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 671266407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the due date on the purchase invoice will be used as a basis to calculate the payment posting date.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda se datum splatnosti v nákupní faktuře použije jako základ pro výpočet zúčtovacího data platby.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control UseDueDateAsPostingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 4115481519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applies-to-Doc. Due Date Offset</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Posun datumu splatnosti vyrovnání dokladu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control DueDateOffset - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 4115481519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a period of time that will separate the payment posting date from the due date on the invoice. Example 1: To pay the invoice on the Friday in the week of the due date, enter CW-2D (current week minus two days). Example 2: To pay the invoice two days before the due date, enter -2D (minus two days).</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje časový úsek, který oddělí datum platby od data splatnosti na faktuře . Příklad 1: Pro zaplacení faktury v pátek v týdnu do kterého spadá datum splatnosti zadejte CW-2D (aktuální týden mínus dva dny). Příklad 2: Pro platbu dva dny před datem splatnosti faktury, zadejte -2D (mínus dva dny).</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control DueDateOffset - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 1797998410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Document No.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Číslo prvního dokladu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control StartingDocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 1797998410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the next available number in the number series for the journal batch that is linked to the payment journal. When you run the batch job, this is the document number that appears on the first payment journal line. You can also fill in this field manually.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje další dostupné číslo z číselné řady listu deníku, který je spojen s deníkem plateb. Při spuštění dávkové úlohy je to číslo dokladu, který se zobrazí na prvním řádku deníku plateb. Pole můžete také vyplnit ručně.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control StartingDocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3460385088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Doc. No. per Line</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Nové číslo dokladu na řádek</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control NewDocNoPerLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3460385088 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the batch job to fill in the payment journal lines with consecutive document numbers, starting with the document number specified in the Starting Document No. field.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda chcete, aby dávková úloha vyplnila řádky deníku plateb po sobě jdoucími čísly dokladu, počínaje číslem dokladu určeném v poli Počáteční číslo dokladu.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control NewDocNoPerLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3725994770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Type</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Typ protiúčtu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BalAccountType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3725994770 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account,,,Bank Account</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Finanční účet,Bankovní účet</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BalAccountType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3725994770 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balancing account type that payments on the payment journal are posted to.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje typ vyrovnávacího účtu, na který jsou platby v deníku plateb zaúčtovány.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BalAccountType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3575898225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account No.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Číslo protiúčtu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BalAccountNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 3575898225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balancing account number that payments on the payment journal are posted to.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje číslo vyrovnávacího účtu, na který jsou platby v deníku plateb zaúčtovány.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BalAccountNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 1556959688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Payment Type</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Typ platby v bance</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BankPaymentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - Control 1556959688 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies selection of the bank payment type (check type) you are using in case you use bank account as the balancing account type.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje výběr typu platby v bance (typ šeku) použitý v případě, že používáte bankovní účet jako typ protiúčtu.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - Control BankPaymentType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the Last Payment Date field, specify the last possible date that payments must be made.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Do pole Poslední datum splatnosti zadejte poslední možní datum, kdy musí být platba uhrazena.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the Posting Date field, specify the date that will be used as the posting date for the journal entries.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Do pole Zúčtovací datum zadejte datum, které bude použito jako datum zaúčtování položek deníku.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the Starting Document No. field, specify the first document number to be used.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Do pole Počáteční číslo dokladu zadejte první číslo dokladu, které bude použité.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The payment date is earlier than %1.\\Do you still want to run the batch job?</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Datum platby je dříve než %1.\\Opravdu chcete spustit dávku?</target>
+          <note from="Developer" annotates="general" priority="2">%1 is a date</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The batch job was interrupted.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Dávková úloha byla přerušena.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing vendors     #1##########</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zpracování dodavatelů  #1##########</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing vendors for payment discounts #1##########</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zpracování dodavatelů pro skonto #1##########</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inserting payment journal lines #1##########</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vkládání řádků deníku plateb    #1##########</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be G/L Account or Bank Account.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">%1 musí být finančním nebo bankovním účtem.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be filled only when %2 is Bank Account.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">%1 musí být vyplněno pouze, pokud %2 je bankovním účtem.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Vendor Priority must be activated when the value in the Amount Available field is not 0.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Možnost Použít prioritu dodavatele, musí být aktivní, pokud hodnota pole Částka k dispozici není rovna 0.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Vendor Priority must be activated when the value in the Amount Available Amount (LCY) field is not 0.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Volba Použít prioritu dodavatele musí být aktivní, pokud hodnota v poli Částka k dispozici (LM) není rovna 0.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If %1 = %2 and you have not selected the Summarize per Vendor field,\ then you must select the New Doc. No. per Line.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pokud %1 = %2 a nevybrali jste pole Dodavatel na jeden řádek,\pak musíte vybrat Nové číslo dokladu na řádek.</target>
+          <note from="Developer" annotates="general" priority="2">If Bank Payment Type = Computer Check and you have not selected the Summarize per Vendor field,\ then you must select the New Doc. No. per Line.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have only created suggested vendor payment lines for the %1 %2.\ However, there are other open vendor ledger entries in currencies other than %2.\\</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vytvořili jste pouze řádky navržených plateb dodavateli pro %1 %2.\Nicméně v položkách dodavatele existují další otevřené položky v měnách jiných než %2.\\</target>
+          <note from="Developer" annotates="general" priority="2">You have only created suggested vendor payment lines for the Currency Code EUR.\ However, there are other open vendor ledger entries in currencies other than EUR.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have only created suggested vendor payment lines for the %1 %2.\ There are no other open vendor ledger entries in other currencies.\\</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vytvořili jste pouze řádky navržených plateb dodavateli pro %1 %2.\Neexistují žádné další otevřené položky dodavatele v jiných měnách.\\</target>
+          <note from="Developer" annotates="general" priority="2">You have only created suggested vendor payment lines for the Currency Code EUR\ There are no other open vendor ledger entries in other currencies.\\</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have created suggested vendor payment lines for all currencies.\\</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vytvořili jste řádky navržených plateb dodavateli ve všech měnách.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are one or more entries for which no payment suggestions have been made because the posting dates of the entries are later than the requested posting date. Do you want to see the entries?</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Existuje jedna nebo více položek, pro které nebyly vytvořeny žádné návrhy plateb, protože zúčtovací data těchto položek následují po zadaném zúčtovacím datu. Chcete tyto položky zobrazit?</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 with the number %2 has a %3 with the number %4.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">%1 s číslem %2 má %3 s číslem %4.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2094329419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For one or more entries, the requested posting date is before the work date.\\These posting dates will use the work date.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">U jedné nebo více položek je požadované zúčtovací datum před pracovním datem.\\Jako zúčtovací datum bude použito pracovní datum.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType ReplacePostingDateMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 3434512165" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use Find Payment Discounts or Summarize per Vendor together with Calculate Posting Date from Applies-to-Doc. Due Date, because the resulting posting date might not match the payment discount date.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Nemůžete využít Nalézt skonto nebo Sumarizovat za dodavatele s volbou Vypočti zúčtovací datum z Datumu splatnosti vyrovnání dokladu, protože výsledný zúčtovací datum by nemusel odpovídat datumu skonta.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType PmtDiscUnavailableErr</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 2053384910" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment of %1 %2 </source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Platba %1 %2</target>
+          <note from="Developer" annotates="general" priority="2">%1 document type, %2 Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType MessageToRecipientMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 758381069" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value in the Starting Document No. field must have a number so that we can assign the next number in the series.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType StartingDocumentNoErr</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 1436638643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are payments in other journal batches that are not suggested here. This helps avoid duplicate payments. To add them to this batch, remove the payment from the other batch, and then suggest payments again.\\Do you want to review the payments from the other journal batches now?</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType ReviewNotSuggestedLinesQst</note>
+        </trans-unit>
+        <trans-unit id="Report 3583579474 - NamedType 4219859632" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are payments in %1 %2, %3 %4, %5 %6</source>
+          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2">There are payments in Journal Template Name PAYMENT, Journal Batch Name GENERAL, Applies-to Doc. No. 101321</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Suggest Vendor Payments OP - NamedType NotSuggestedPaymentInfoTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>settle vat value added tax,report vat value added tax</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate and Post VAT Settlement</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Možnosti</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Počáteční datum</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control StartingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 543275552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the first date in the period from which VAT entries are processed in the batch job.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje první datum v období, od kterého jsou zpracovány položky DPH v dávkové úloze.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control StartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 4027189807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Koncové datum</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control EndDateReq - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 4027189807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the last date in the period from which VAT entries are processed in the batch job.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje poslední datum v období, ze kterého jsou zpracovány položky DPH v dávkové úloze.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control EndDateReq - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3633979340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Datum zaúčtování</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control PostingDt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3633979340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date on which the transfer to the VAT account is posted. This field must be filled in.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje s jakým datem je převod zaúčtován na účet DPH. Toto pole musí být vyplněno.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control PostingDt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3117834186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Číslo dokladu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control DocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3117834186 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a document number. This field must be filled in.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje číslo dokladu. Toto pole musí být vyplněno.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control DocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 900177904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settlement Account</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Účet vyrovnání</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control SettlementAcc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 900177904 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the VAT settlement account. Select the field to see the chart of account. This field must be filled in.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje číslo účtu vyrovnání DPH. Vybráním pole zobrazíte účetní osnovu. Toto pole musí být vyplněno.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control SettlementAcc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 587448222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show VAT Entries</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zobrazit DPH položky</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control ShowVATEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 587448222 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report that is printed during the batch job to contain the individual VAT entries. If you do not choose to print the VAT entries, the settlement amount is shown only for each VAT posting group.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda chcete, aby sestava tisknutá v průběhu provádění dávkové úlohy obsahovala jednotlivé položky DPH. Pokud nevyberete tisk položek DPH, částka vyrovnání je zobrazena pouze pro každou účto skupinu DPH.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control ShowVATEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <target state="translated">Účtovat</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 2282416948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the program to post the transfer to the VAT settlement account automatically. If you do not choose to post the transfer, the batch job only prints a test report, and Test Report (not Posted) appears on the report.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje, zda chcete, aby program automaticky účtoval přenos na účet vyrovnání DPH. Pokud se pro účtování přenosu nerozhodnete, dávková úloha vytiskne pouze testovací sestavu a testovací sestava (neúčtováno) se zobrazí v sestavě.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control Post - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3303862007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Amounts in Add. Reporting Currency</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zobrazit částky v příd. měně pro hlášení</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control AmtsinAddReportingCurr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3303862007 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the reported amounts are shown in the additional reporting currency.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Specifies if the reported amounts are shown in the additional reporting currency.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control AmtsinAddReportingCurr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3292282738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance Country</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Země/oblast plnění</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control CountryCodeFillFiter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - Control 3292282738 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies performance country code for VAT entries filtr.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Určuje kód země výkonu pro filtr položek DPH.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - Control CountryCodeFillFiter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the posting date.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zadejte zúčtovací datum.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the document no.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zadejte číslo dokladu.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the settlement account.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Zadejte účet vyrovnání.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to calculate and post the VAT Settlement?</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Chcete vypočítat a zaúčtovat vyrovnání DPH?</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Settlement</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">DPH vyrovnání</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period: %1</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Období 1</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 3576424497" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All amounts are in %1.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Všech. č. jsou v %1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Currency Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType AllAmountsAreInTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase VAT settlement: #1######## #2########</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyrovnání nákupní DPH : #1######## #2########</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales VAT settlement  : #1######## #2########</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyrovnání prodejní DPH: #1######## #2########</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2571830216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calc. and Post VAT Settlement</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vypoč. a účtovat vyrovnání DPH</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType CalcandPostVATSettlementCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Stránka</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 1020508692" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report (Not Posted)</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Testovací sestava (nezaúčtované)</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType TestReportnotpostedCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2833281111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Číslo dokladu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType DocNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 721081132" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settlement Account</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Účet vyrovnání</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType SettlementAccCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2869310181" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Typ dokumentu</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType DocumentTypeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 1972890076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">User ID</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType UserIDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Součet</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2772842411" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settlement</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyrovnání</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType SettlementCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 2758237192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No. is too long (max. %1 characters).</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Číslo dokladu je příliš dlouhé (max.%1 zn.).</target>
+          <note from="Developer" annotates="general" priority="2">%1=Max length of VAT Settlement No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType DocNoErr</note>
+        </trans-unit>
+        <trans-unit id="Report 2851825628 - NamedType 1864777438" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for Country/Region %1</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Celkem za kód země/oblasti %1</target>
+          <note from="Developer" annotates="general" priority="2">%1="Country/Region Code"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report OP Calc. and Post VAT Stlmt. - NamedType CountrySubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1406141430 - Action 3425870978 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create payment suggestions as lines in the payment journal.</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vytvořte návrh plateb jako řádky v deníku plateb.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PaymentJournalExt - Action SuggestVendorPaymentsOP - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3527794241 - Action 3793906115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OP Calculate and Post VAT Settlement</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VATStatementExt - Action CalcAndPostOP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3527794241 - Action 3793906115 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close open VAT entries and transfers purchase and sales VAT amounts to the VAT settlement account.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VATStatementExt - Action CalcAndPostOP - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
